@@ -1,0 +1,2 @@
+# Transformer-vs.-Graph-Based-Models-for-Differentiating-Human-and-AI-Text-Recognition
+This project compares deep learning models, including Transformers (DistilBERT, ELECTRA) and a novel Graph Convolutional Network (GCN), for classifying text as human-written or AI-generated. Using a balanced 5k dataset, advanced models like ELECTRA and the GCN achieved the highest accuracy, proving their effectiveness.
